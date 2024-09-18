@@ -1,3 +1,4 @@
 1. Lokalna zmena
 2. Remote zmena
 3. Lokalna zmena
+4. Remote zmena
